@@ -10,6 +10,13 @@ This project demonstrates a fully functional end-to-end Azure data engineering p
 The goal of this project is to convert raw enterprise data into meaningful business insights related to sales performance, customers, product categories, territories, and calendar trends.
 
 
+## **ARCHITECTURE**
+
+
+<img width="1344" height="768" alt="Azure Architecture" src="https://github.com/user-attachments/assets/5772081a-7e79-4768-b7e1-bb57256d6445" />
+
+
+
 ## **DATA MODEL**
  
 The dataset includes the following entities:
