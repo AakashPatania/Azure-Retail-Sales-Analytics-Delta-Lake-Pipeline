@@ -71,7 +71,7 @@ This project reflects real-world enterprise data engineering practices, showcasi
 
 
 
-## POWER BI DASHBOARD IMAGES (Some of them)
+## POWER BI DASHBOARD IMAGES 
 
 <img width="1194" height="568" alt="Screenshot 2025-11-24 at 18 20 40" src="https://github.com/user-attachments/assets/8ef4b3f8-2fdd-44f3-9d38-7d1f0126e355"/> 
 
