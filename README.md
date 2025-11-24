@@ -21,7 +21,7 @@ Sales Territories
 
 Calendar / Date dimension
 
-**KEY FEATURES**
+## **KEY FEATURES**
 
 Real-time data ingestion using Azure Data Factory HTTP connector
 
@@ -33,7 +33,7 @@ Data warehousing and analytical modeling using Synapse SQL
 
 Power BI dashboards for business insights and decision support
 
-**TECHNOLOGIES USED**
+## **TECHNOLOGIES USED**
 
 Azure Data Factory
 
@@ -45,9 +45,9 @@ Azure Synapse Analytics
 
 Power BI
 
-Adventure Works Dataset (HTTP API Source)
+Adventure Works Dataset (Github)
 
-**FINAL OUTPUT**
+## **FINAL OUTPUT**
 
 Interactive Power BI dashboards showcasing:
 
@@ -60,9 +60,16 @@ Product performance by category and subcategory
 Time-based seasonality insights
 
 
-**CONCLUSION**
+## **CONCLUSION**
 
 This project reflects real-world enterprise data engineering practices, showcasing a complete analytical pipeline from data extraction to reporting, built entirely with the Microsoft Azure ecosystem.
+
+
+
+## POWER BI DASHBOARD IMAGES
+
+<img width="1194" height="568" alt="Screenshot 2025-11-24 at 18 20 40" src="https://github.com/user-attachments/assets/8ef4b3f8-2fdd-44f3-9d38-7d1f0126e355" />
+
 
 
 
