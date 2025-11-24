@@ -1,3 +1,8 @@
+# Designed and implemented an end-to-end Azure Data Engineering Lakehouse solution to transform Adventure Works retail data into actionable business insights
+
+
+
+
 # **PROJECT OVERVIEW**
 
 This project demonstrates a fully functional end-to-end Azure data engineering pipeline using the Adventure Works dataset. The solution follows a modern Lakehouse architecture and includes data ingestion, raw and transformed data storage, ETL processing, data warehousing, and business intelligence reporting.
