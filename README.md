@@ -66,11 +66,13 @@ This project reflects real-world enterprise data engineering practices, showcasi
 
 
 
-## POWER BI DASHBOARD IMAGES
+## POWER BI DASHBOARD IMAGES (Some of them)
 
-<img width="1194" height="568" alt="Screenshot 2025-11-24 at 18 20 40" src="https://github.com/user-attachments/assets/8ef4b3f8-2fdd-44f3-9d38-7d1f0126e355" />
-
-
+<img width="1194" height="568" alt="Screenshot 2025-11-24 at 18 20 40" src="https://github.com/user-attachments/assets/8ef4b3f8-2fdd-44f3-9d38-7d1f0126e355"/> 
 
 
 
+<img width="1194" height="575" alt="Screenshot 2025-11-24 at 18 20 33" src="https://github.com/user-attachments/assets/c1543935-745d-47ce-9a80-a0233274a0bf" />
+
+
+<img width="1200" height="567" alt="Screenshot 2025-11-24 at 18 20 24" src="https://github.com/user-attachments/assets/567366dd-44ea-4ab9-835d-10658f1fb52e" />
